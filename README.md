@@ -7,7 +7,7 @@ This project follows the **Artificial Intelligence Disclosure (AID) Framework** 
 
 *   **Link to Framework:** [AID Framework (ACRL News)](https://crln.acrl.org/index.php/crlnews/article/view/26548/34482)
 
-For the project, Google Gemini CLI was used to integrate all code, create this directory, push it to Github in March 2026.
+For the project, Google Gemini CLI was used to integrate all code, create this directory, push it to Github in March 2026, and automaticaly write portions of this README file, which were then manually reviewed and edited by Ian Williams.
 
 
 ### Why Disclosure Matters
