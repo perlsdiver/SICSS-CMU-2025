@@ -1,14 +1,22 @@
 # Pittsburgh Reddit Analysis: Fog Wranglers Project
 
-This project analyzes the Pittsburgh subreddit using NLP, Network Analysis, and Topic Modeling. It was created by the team Fog Wranglers, during the Summer Institute in Computational Social Science at Carnegie Mellon University in Pittsburgh, PA.
+This project analyzes the Pittsburgh subreddit using NLP, Network Analysis, and Topic Modeling. It was created by the team Fog Wranglers, during the Summer Institute in Computational Social Science at Carnegie Mellon University ([SICSS-CMU](https://sicss.io/2025/cmu/)) in Pittsburgh, PA.
+
+Our intent was to demonstrate technical skills learne during SICSS
+
+## Project Team
+**SICSS-CMU 2025: Fog Wranglers**
+- **Will Martin** - project coneptualization and ideation, scaping file, data source
+- **Ian G. Williams** - project conceptualization and ideation, project management, presentation slides and planning, code review
+- **Kuheli Sai** - sentiment analysis
+- **Hanh Phan** - topic modeling
 
 ## Artificial Intelligence Disclosure (AID)
 This project follows the **Artificial Intelligence Disclosure (AID) Framework** for documenting the use of AI tools in research and code development. 
 
 *   **Link to Framework:** [AID Framework (ACRL News)](https://crln.acrl.org/index.php/crlnews/article/view/26548/34482)
 
-For the project, Google Gemini CLI was used to integrate all code, create this directory, push it to Github in March 2026, and automaticaly write portions of this README file, which were then manually reviewed and edited by Ian Williams.
-
+For the project, Google Gemini CLI was used to integrate all code using the run_all.R file, create this directory, push it to Github in March 2026, and automaticaly write portions of this README file, which were then manually reviewed and edited by Ian Williams.
 
 ### Why Disclosure Matters
 Transparency in the use of AI is essential for:
@@ -38,12 +46,7 @@ source("run_all.R")
 Place all `.csv` and `.xlsx` files in the `data/` directory. 
 *Note: Large data files are ignored by Git and should be managed locally.*
 
-## Project Team
-**SICSS-CMU 2025: Fog Wranglers**
-- **Will Martin** - project coneptualization and ideation, scaping file, data source
-- **Ian G. Williams** - project conceptualization and ideation, project management, presentation slides and planning, code review
-- **Kuheli Sai** - sentiment analysis
-- **Hanh Phan** - topic modeling
+
 
 All content other than portions of this README file were written by human authors during the Summer Institute in Compuational Social Science at Carnegie Mellon University (SICSS-CMU) in May 2025.
 
