@@ -1,4 +1,4 @@
-# Pittsburgh Reddit Analysis: Fog Wranglers Project
+# Performing a "Yinzer" Dialect in Social Text: An Exploration of /r/Pittsburgh
 
 This project analyzes the Pittsburgh subreddit using NLP, Network Analysis, and Topic Modeling. It was created by the team Fog Wranglers, during the Summer Institute in Computational Social Science at Carnegie Mellon University ([SICSS-CMU](https://sicss.io/2025/cmu/)) in Pittsburgh, PA.
 
