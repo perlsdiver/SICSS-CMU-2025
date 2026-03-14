@@ -31,6 +31,12 @@ Transparency in the use of AI is essential for:
 2.  **Topic Modeling** (`TopicModelingFogWranglers.R`): Uses LDA and STM models to identify key themes in subreddit discussions.
 3.  **Sentiment Analysis** (`SICSS_Sentiment_Analysis_R_Code.R`): Applies VADER sentiment scoring to understand the emotional tone of subreddit interactions.
 
+## Data Sources
+
+- [/r/Pittsburgh](https://www.reddit.com/r/pittsburgh/) threads and comments from 5/4/25-5/20/2025 (two week window)
+- n = 8177 (266 threads; 7,911 comments)
+- Largest thread contained 497 comments, and was topically about Pittsburgh
+
 ## How to Run the Integrated Pipeline
 Use the `run_all.R` script to execute the entire analysis in one step. 
 This script handles package installation, data loading, and environment setup without modifying the original scripts.
