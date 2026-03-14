@@ -1,8 +1,10 @@
 # Performing a "Yinzer" Dialect in Social Text: An Exploration of /r/Pittsburgh
 
-This project analyzes the Pittsburgh subreddit using NLP, Network Analysis, and Topic Modeling. It was created by the team Fog Wranglers, during the Summer Institute in Computational Social Science at Carnegie Mellon University ([SICSS-CMU](https://sicss.io/2025/cmu/)) in Pittsburgh, PA.
+This exploratory project analyzes the Pittsburgh subreddit using NLP, Network Analysis, and Topic Modeling, using roughgly two weeks of data scraped in May 2025.
 
-Our intent was to demonstrate technical skills learne during SICSS
+It was created by the team **Fog Wranglers**, during the Summer Institute in Computational Social Science at Carnegie Mellon University ([SICSS-CMU](https://sicss.io/2025/cmu/)) in Pittsburgh, PA.
+
+Our intent was to demonstrate computational social science skills learned during SICSS and situate our within our local and embodied experiences of Pittsburgh.
 
 ## Project Team
 **SICSS-CMU 2025: Fog Wranglers**
