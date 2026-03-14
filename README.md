@@ -13,19 +13,6 @@ Our intent was to demonstrate computational social science skills learned during
 - **Kuheli Sai** - sentiment analysis
 - **Hanh Phan** - topic modeling
 
-## Artificial Intelligence Disclosure (AID)
-This project follows the **Artificial Intelligence Disclosure (AID) Framework** for documenting the use of AI tools in research and code development. 
-
-*   **Link to Framework:** [AID Framework (ACRL News)](https://crln.acrl.org/index.php/crlnews/article/view/26548/34482)
-
-For the project, Google Gemini CLI was used to integrate all code using the run_all.R file, create this directory, push it to Github in March 2026, and automaticaly write portions of this README file, which were then manually reviewed and edited by Ian Williams.
-
-### Why Disclosure Matters
-Transparency in the use of AI is essential for:
-1.  **Academic Integrity:** Clearly documenting where AI assisted in code generation vs. where researchers provided the domain expertise.
-2.  **Reproducibility:** Ensuring future researchers know exactly which versions of AI and software tools were used to produce the results.
-3.  **Ethical Standards:** Upholding professional norms for transparency in collaborative computational social science.
-
 ## Project Components
 1.  **Network Analysis & Adjective Mapping** (`reddit-pgh.R`): Extracts adjectives from Reddit comments to map descriptive terms to Pittsburgh neighborhoods.
 2.  **Topic Modeling** (`TopicModelingFogWranglers.R`): Uses LDA and STM models to identify key themes in subreddit discussions.
@@ -54,6 +41,18 @@ source("run_all.R")
 Place all `.csv` and `.xlsx` files in the `data/` directory. 
 *Note: Large data files are ignored by Git and should be managed locally.*
 
+## Artificial Intelligence Disclosure (AID)
+This project follows the **Artificial Intelligence Disclosure (AID) Framework** for documenting the use of AI tools in research and code development. 
+
+*   **Link to Framework:** [AID Framework (ACRL News)](https://crln.acrl.org/index.php/crlnews/article/view/26548/34482)
+
+For the project, Google Gemini CLI was used to integrate all code using the run_all.R file, create this directory, push it to Github in March 2026, and automaticaly write portions of this README file, which were then manually reviewed and edited by Ian Williams.
+
+### Why Disclosure Matters
+Transparency in the use of AI is essential for:
+1.  **Academic Integrity:** Clearly documenting where AI assisted in code generation vs. where researchers provided the domain expertise.
+2.  **Reproducibility:** Ensuring future researchers know exactly which versions of AI and software tools were used to produce the results.
+3.  **Ethical Standards:** Upholding professional norms for transparency in collaborative computational social science.
 
 
 All content other than portions of this README file were written by human authors during the Summer Institute in Compuational Social Science at Carnegie Mellon University (SICSS-CMU) in May 2025.
