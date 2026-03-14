@@ -7,6 +7,9 @@ This project follows the **Artificial Intelligence Disclosure (AID) Framework** 
 
 *   **Link to Framework:** [AID Framework (ACRL News)](https://crln.acrl.org/index.php/crlnews/article/view/26548/34482)
 
+For the project, Google Gemini CLI was used to integrate all code, create this directory, push it to Github in March 2026.
+
+
 ### Why Disclosure Matters
 Transparency in the use of AI is essential for:
 1.  **Academic Integrity:** Clearly documenting where AI assisted in code generation vs. where researchers provided the domain expertise.
@@ -41,6 +44,8 @@ Place all `.csv` and `.xlsx` files in the `data/` directory.
 - **Ian G. Williams**
 - **Kuheli Sai**
 - **Hanh Phan**
+
+All content other than portions of this README file were written by human authors during the Summer Institute in Compuational Social Science at Carnegie Mellon University (SICSS-CMU) in May 2025.
 
 ## Presentation Highlights
 The complete presentation (20 slides) is available in the `slides/` directory.
