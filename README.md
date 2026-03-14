@@ -40,10 +40,10 @@ Place all `.csv` and `.xlsx` files in the `data/` directory.
 
 ## Project Team
 **SICSS-CMU 2025: Fog Wranglers**
-- **Will Martin**
-- **Ian G. Williams**
-- **Kuheli Sai**
-- **Hanh Phan**
+- **Will Martin** - project coneptualization and ideation, scaping file, data source
+- **Ian G. Williams** - project conceptualization and ideation, project management, presentation slides and planning, code review
+- **Kuheli Sai** - sentiment analysis
+- **Hanh Phan** - topic modeling
 
 All content other than portions of this README file were written by human authors during the Summer Institute in Compuational Social Science at Carnegie Mellon University (SICSS-CMU) in May 2025.
 
