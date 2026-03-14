@@ -1,6 +1,6 @@
 # Pittsburgh Reddit Analysis: Fog Wranglers Project
 
-This project analyzes the Pittsburgh subreddit using NLP, Network Analysis, and Topic Modeling. 
+This project analyzes the Pittsburgh subreddit using NLP, Network Analysis, and Topic Modeling. It was created by the team Fog Wranglers, during the Summer Institute in Computational Social Science at Carnegie Mellon University in Pittsburgh, PA.
 
 ## Artificial Intelligence Disclosure (AID)
 This project follows the **Artificial Intelligence Disclosure (AID) Framework** for documenting the use of AI tools in research and code development. 
