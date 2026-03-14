@@ -9,7 +9,7 @@ Our intent was to demonstrate computational social science skills learned during
 ## Project Team
 **SICSS-CMU 2025: Fog Wranglers**
 - **Will Martin** - project conceptualization and ideation, scaping file, data source
-- **Ian G. Williams** - project conceptualization and ideation, project management, presentation slides and planning, code review
+- **Ian G. Williams** - project conceptualization and ideation, lexicon creation, project management, presentation slides and planning, code review
 - **Kuheli Sai** - sentiment analysis
 - **Hanh Phan** - topic modeling
 
