@@ -1,0 +1,26 @@
+# R specific files
+.RData
+.Rhistory
+.Rproj.user/
+.Rapp.history
+
+# Large data files (over 1MB or sensitive)
+data/*.csv
+data/*.xlsx
+data/*.RData
+data-big/
+
+# Generated outputs
+*.png
+*.pdf
+*.html
+*.nb.html
+findingk.Rda
+sentiment_distribution_plot.png
+
+# Exceptions for presentation slides
+!slides/**/*.png
+!slides/**/*.pdf
+
+# System files
+.DS_Store
