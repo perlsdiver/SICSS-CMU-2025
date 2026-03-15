@@ -21,7 +21,8 @@ Our intent was to demonstrate ([computational social science skills learned duri
 ## Data Sources
 
 - [/r/Pittsburgh](https://www.reddit.com/r/pittsburgh/) threads and comments from 5/4/25-5/20/2025 (two week window)
-- n = 8177 (266 threads; 7,911 comments)
+- n = 8177
+  - 266 threads; 7,911 comments
 - Largest thread contained 497 comments, and was topically about Pittsburgh
 
 ## How to Run the Integrated Pipeline
