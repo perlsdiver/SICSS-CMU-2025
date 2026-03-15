@@ -5,9 +5,6 @@
 .Rapp.history
 
 # Large data files (over 1MB or sensitive)
-data/*.csv
-data/*.xlsx
-data/*.RData
 data-big/
 
 # Generated outputs
