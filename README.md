@@ -16,7 +16,7 @@ Our intent was to demonstrate [computational social science skills learned durin
 ## Project Components
 1. **Data Scraping**
 2. **Data Wrangling**
-3. **Lexicon Creation**
+3. **Lexicon Creation** Creation of Pittsburghese dictionary CSV file.
 4.  **Network Analysis & Adjective Mapping** (`reddit-pgh.R`): Extracts adjectives from Reddit comments to map descriptive terms to Pittsburgh neighborhoods.
 5.  **Topic Modeling** (`TopicModelingFogWranglers.R`): Uses LDA and STM models to identify key themes in subreddit discussions.
 6.  **Sentiment Analysis** (`SICSS_Sentiment_Analysis_R_Code.R`): Applies VADER sentiment scoring to understand the emotional tone of subreddit interactions.
