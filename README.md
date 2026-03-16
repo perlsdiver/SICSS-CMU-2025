@@ -10,9 +10,9 @@ As a diverse team of mixed technical, conceptual, and skill backgrounds, we divi
 
 ## Project Team
 **SICSS-CMU 2025: Fog Wranglers**
-- **[Will Martin](https://www.design.cmu.edu/profiles/william-martin)** - School of Design, Carnegie Mellon University - project conceptualization and ideation, data scraping script, data source
-- **[Ian G. Williams](https://www.gc.cuny.edu/people/ian-g-williams)** - PhD Program in Social Welfare, CUNY Graduate Center - project conceptualization and ideation, lexicon creation, project management, presentation slides and planning, code review
-- **[Kuheli Sai](https://sites.google.com/view/kuhelisai/)** - School of Computing and Information, University of Pittsburgh - sentiment analysis
+- **[Will Martin](https://www.design.cmu.edu/profiles/william-martin)** - School of Design, Carnegie Mellon University - project conceptualization and ideation, data scraping script, data source, code review
+- **[Ian G. Williams](https://www.gc.cuny.edu/people/ian-g-williams)** - PhD Program in Social Welfare, CUNY Graduate Center - project conceptualization and ideation, lexicon creation, project management, presentation slides and planning, literature review
+- **[Kuheli Sai](https://sites.google.com/view/kuhelisai/)** - School of Computing and Information, University of Pittsburgh - sentiment analysis, 
 - **[Hanh Phan](https://www.chatham.edu/academics/undergraduate/accounting/faculty/hanh-phan.html)** School of Business & Enterprise, Chatham University - topic modeling
 
 ## Project Components
