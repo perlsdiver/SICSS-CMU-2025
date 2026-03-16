@@ -2,7 +2,7 @@
 
 This exploratory project analyzes the Pittsburgh subreddit using NLP, Network Analysis, and Topic Modeling, using data scraped between 5/4/25-5/20/2025. It was created over a week-long period in May 2025.
 
-The project was created by the team **Fog Wranglers**, during the Summer Institute in Computational Social Science at Carnegie Mellon University [SICSS-CMU](https://sicss.io/2025/cmu/) in Pittsburgh, PA. In the first week, we went through training and courses in the foudnations of computational social science. In the second week, we worked in teams, encouraged to think creatively, play with our new skills, and not be afraid of failure along the way. We took a voluntary pledge to use no AI coding assistants or tools during this time, so all materials were assembled by the team.
+The project was created by the team **Fog Wranglers**, during the Summer Institute in Computational Social Science at Carnegie Mellon University [SICSS-CMU](https://sicss.io/2025/cmu/) in Pittsburgh, PA. In the first week, we went through training and courses in the foundations of computational social science. In the second week, we worked in teams, encouraged to think creatively, play with our new skills, and not be afraid of failure along the way. We took a voluntary pledge to use no AI coding assistants or tools during this time, so all materials were assembled by the team.
 
 Our intent was to demonstrate [computational social science skills learned during SICSS](https://github.com/sicss-cmu/2025-materials), while situating the computational work within - and in dialogue with - our embodied experiences of Pittsburgh that existed outside of the data frame.
 
