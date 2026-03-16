@@ -2,16 +2,18 @@
 
 This exploratory project analyzes the Pittsburgh subreddit using NLP, Network Analysis, and Topic Modeling, using data scraped between 5/4/25-5/20/2025. It was created over a week-long period in May 2025.
 
-The project was created by the team **Fog Wranglers**, during the Summer Institute in Computational Social Science at Carnegie Mellon University [SICSS-CMU](https://sicss.io/2025/cmu/) in Pittsburgh, PA.
+The project was created by the team **Fog Wranglers**, during the Summer Institute in Computational Social Science at Carnegie Mellon University [SICSS-CMU](https://sicss.io/2025/cmu/) in Pittsburgh, PA. In the first week, we went through training and courses in the foudnations of computational social science. In the second week, we worked in teams, encouraged to think creatively, play with our new skills, and not be afraid of failure along the way. We took a voluntary pledge to use no AI coding assistants or tools during this time, so all materials were assembled by the team.
 
 Our intent was to demonstrate [computational social science skills learned during SICSS](https://github.com/sicss-cmu/2025-materials), while situating the computational work within - and in dialogue with - our embodied experiences of Pittsburgh that existed outside of the data frame.
 
+As a diverse team of mixed technical, conceptual, and skill backgrounds, we divided up work based on our interests and capacities.
+
 ## Project Team
 **SICSS-CMU 2025: Fog Wranglers**
-- **Will Martin** - project conceptualization and ideation, scaping file, data source
-- **Ian G. Williams** - project conceptualization and ideation, lexicon creation, project management, presentation slides and planning, code review
-- **Kuheli Sai** - sentiment analysis
-- **Hanh Phan** - topic modeling
+- **[Will Martin](https://www.design.cmu.edu/profiles/william-martin)** - Transition Design Institute, Carnegie Mellon University - project conceptualization and ideation, data scraping script, data source
+- **[Ian G. Williams](https://www.gc.cuny.edu/people/ian-g-williams)** - CUNY Graduate Center - project conceptualization and ideation, lexicon creation, project management, presentation slides and planning, code review
+- **[Kuheli Sai](https://sites.google.com/view/kuhelisai/)** - University of Pittsburgh - sentiment analysis
+- **[Hanh Phan](https://www.chatham.edu/academics/undergraduate/accounting/faculty/hanh-phan.html)** Chatham University - topic modeling
 
 ## Project Components
 1. **Data Scraping**
