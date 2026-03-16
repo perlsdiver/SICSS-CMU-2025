@@ -8,8 +8,14 @@ Our intent was to demonstrate [computational social science skills learned durin
 
 As a diverse team of mixed technical, conceptual, and skill backgrounds, we divided up work based on our interests and capacities.
 
+
+
 ## Project Team
 **SICSS-CMU 2025: Fog Wranglers**
+
+![Fog Wranglers logo](/media/Fog-Wranglers-Logo-3.png)
+
+
 - **[Will Martin](https://www.design.cmu.edu/profiles/william-martin)** - School of Design, Carnegie Mellon University - project conceptualization and ideation, data scraping script, data source, code review
 - **[Ian G. Williams](https://www.gc.cuny.edu/people/ian-g-williams)** - PhD Program in Social Welfare, CUNY Graduate Center - project conceptualization and ideation, lexicon creation, project management, presentation slides and planning, literature review
 - **[Kuheli Sai](https://sites.google.com/view/kuhelisai/)** - School of Computing and Information, University of Pittsburgh - sentiment analysis, 
