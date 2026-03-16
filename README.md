@@ -28,8 +28,9 @@ As a diverse team of mixed technical, conceptual, and skill backgrounds, we divi
 
 - [/r/Pittsburgh](https://www.reddit.com/r/pittsburgh/) threads and comments from 5/4/25-5/20/2025 (two week window)
 - n = 8177
-  - 266 threads; 7,911 comments
-- Largest thread contained 497 comments, and was topically about Pittsburgh
+  - 266 threads
+  - 7,911 comments
+  - Largest thread contained 497 comments, and was topically about Pittsburgh
 
 ## How to Run the Integrated Pipeline
 Use the `run_all.R` script to execute the entire analysis in one step. 
