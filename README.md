@@ -6,7 +6,7 @@ The project was created by the team **Fog Wranglers**, during the Summer Institu
 
 Our intent was to demonstrate [computational social science skills learned during SICSS](https://github.com/sicss-cmu/2025-materials), while situating the computational work within - and in dialogue with - our embodied experiences of Pittsburgh that existed outside of the data frame.
 
-As a diverse team of mixed technical, conceptual, and skill backgrounds, we divided up work based on our interests and capacities.
+As a diverse team of mixed technical, conceptual, and skill backgrounds, we conceptualized a project that could draw from our strengths and areas of expertise, and divided up work based on our interests and capacities.
 
 
 
