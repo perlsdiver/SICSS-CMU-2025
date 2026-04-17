@@ -60,14 +60,13 @@ This project follows the **Artificial Intelligence Disclosure (AID) Framework** 
 
 *   **Link to Framework:** [AID Framework (ACRL News)](https://crln.acrl.org/index.php/crlnews/article/view/26548/34482)
 
-For the project, Google Gemini CLI was used to integrate all code using the run_all.R file, create this directory, push it to Github in March 2026, and automaticaly write portions of this README file, which were then manually reviewed and edited by Ian Williams.
+Most of this project was made by its human authors, without the use of AI tools, in May 2025. Some of the code was originally written in Python, and later translated to R. In March 2026, Google Gemini CLI was used to integrate all code by generating the run_all.R file, create this directory, push it to Github in March 2026, and automaticaly write portions of this README file, which were then manually reviewed and edited by Ian Williams.
 
 ### Why Disclosure Matters
 Transparency in the use of AI is essential for:
 1.  **Academic Integrity:** Clearly documenting where AI assisted in code generation vs. where researchers provided the domain expertise.
 2.  **Reproducibility:** Ensuring future researchers know exactly which versions of AI and software tools were used to produce the results.
 3.  **Ethical Standards:** Upholding professional norms for transparency in collaborative computational social science.
-
 
 All content other than portions of this README file were written by human authors during the Summer Institute in Compuational Social Science at Carnegie Mellon University (SICSS-CMU) in May 2025.
 
